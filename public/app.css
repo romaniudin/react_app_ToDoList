@@ -1,0 +1,28 @@
+.done {
+  text-decoration: line-through;
+  color: grey;
+}
+.list-group {
+  text-align: left;
+  
+}
+.list-group-item input {
+  margin-right: 5px;
+}
+
+.btn-primary, .form-control {
+  font-weight: bold;
+}
+
+.container select {
+  float: left;
+}
+
+#root {
+  margin-top: 14rem;
+}
+
+h1 {
+  font-weight: bold;
+  font-family: 'Great Vibes', cursive;
+}
